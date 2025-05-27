@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D/3D game - Escape from the Falling Object Game
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222240110
+### REGISTER NUMBER :212222240047
 ### AIM: 
 To develop a Escape from the Falling Object Game in Unity 
 ### Algorithm:
